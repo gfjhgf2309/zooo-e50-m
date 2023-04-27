@@ -1,0 +1,36 @@
+h1 {
+background: rgb(0, 255, 170);
+text-align: center;
+color: black;
+margin:  25px 50px 25px 50px;
+font-size: 50px;
+font-family: sans-serif;
+}
+
+#idone {
+margin-left: 22%;
+margin-right: 20%;
+}
+
+span , p {
+    background: green;
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+}
+
+a {
+    background: r=green;
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+}
+body {
+    background: green;
+    color: red;
+    font-family: "Pacifico-Regular";
+}
+
+nav {
+    text-align: center;
+}
